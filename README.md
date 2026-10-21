@@ -19,6 +19,7 @@
 | `09-the-glade.md` | Поляна: первые люди. Светляшка, дорога к Тьме, цена запрета. |
 | `10-the-first-cessation.md` | Первое завершение: Светляшка. Поворот всей вещи. |
 | `11-the-erasure.md` | Стирание: конец Фантазии и забвение Фантазёра. |
+| `12-in-the-void.md` | В пустоте: Реалист приходит к Фантазёру. Мотив стирания и ловушка возвращения. |
 | `08-the-boundary.md` | **Заготовка.** Граница `[_]` между мирами и Парадокс — Объект в Суперпозиции. Ещё не произошло. |
 | `99-open-questions.md` | То, что ещё не решено. Вопросы, на которые нужен ответ автора. |
 
@@ -36,4 +37,4 @@
 
 ## Порядок чтения
 
-`00-beginning.md` → `01-laws.md` → `02-trinity.md` → `03-divergence.md` → `04-meaning.md` → `05-meeting.md` → `06-beginning-and-end.md` → `07-completion.md` → `09-the-glade.md` → `10-the-first-cessation.md` → `11-the-erasure.md`. Законы без начала не читаются, начало без законов не объясняет ничего дальше.
+`00-beginning.md` → `01-laws.md` → `02-trinity.md` → `03-divergence.md` → `04-meaning.md` → `05-meeting.md` → `06-beginning-and-end.md` → `07-completion.md` → `09-the-glade.md` → `10-the-first-cessation.md` → `11-the-erasure.md` → `12-in-the-void.md`. Законы без начала не читаются, начало без законов не объясняет ничего дальше.
