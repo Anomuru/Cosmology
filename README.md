@@ -28,6 +28,7 @@
 | `18-frictions.md` | Трения: Вериил как узел, спокойствие Азраила, интерес Люцифера к Фантаэлю, трое над людьми. |
 | `19-the-image.md` | Изображение: люди изобретают письмо, пытаясь нарисовать Фантаэля. Вина без действия. |
 | `20-the-cave.md` | Пещера: первая религия. Догма восстанавливает повязку и правит Книгу снизу. |
+| `21-the-imitators.md` | Подражатели: почему демонов назвали злыми. З-7 доходит до людей; согласие как антагонист. |
 | `08-the-boundary.md` | **Заготовка.** Граница `[_]` между мирами и Парадокс — Объект в Суперпозиции. Ещё не произошло. |
 | `99-open-questions.md` | То, что ещё не решено. Вопросы, на которые нужен ответ автора. |
 
@@ -49,4 +50,4 @@
 
 ## Порядок чтения
 
-`00-beginning.md` → `01-laws.md` → `02-trinity.md` → `03-divergence.md` → `04-meaning.md` → `05-meeting.md` → `06-beginning-and-end.md` → `07-completion.md` → `09-the-glade.md` → `10-the-first-cessation.md` → `11-the-erasure.md` → `12-in-the-void.md` → `13-fantael.md` → `14-the-world.md` → `16-the-book.md` → `17-veriil-reads.md` → `18-frictions.md` → `19-the-image.md` → `20-the-cave.md`. Законы без начала не читаются, начало без законов не объясняет ничего дальше.
+`00-beginning.md` → `01-laws.md` → `02-trinity.md` → `03-divergence.md` → `04-meaning.md` → `05-meeting.md` → `06-beginning-and-end.md` → `07-completion.md` → `09-the-glade.md` → `10-the-first-cessation.md` → `11-the-erasure.md` → `12-in-the-void.md` → `13-fantael.md` → `14-the-world.md` → `16-the-book.md` → `17-veriil-reads.md` → `18-frictions.md` → `19-the-image.md` → `20-the-cave.md` → `21-the-imitators.md`. Законы без начала не читаются, начало без законов не объясняет ничего дальше.
