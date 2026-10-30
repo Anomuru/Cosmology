@@ -30,6 +30,7 @@
 | `20-the-cave.md` | Пещера: первая религия. Догма восстанавливает повязку и правит Книгу снизу. |
 | `21-the-imitators.md` | Подражатели: почему демонов назвали злыми. З-7 доходит до людей; согласие как антагонист. |
 | `22-the-stars.md` | Звёзды: Демиург отдаёт крылья и рога Миру. Третья категория миротворения — отдать своё. |
+| `23-the-gift-seen.md` | Дар увиденный: Фантаэль называет дар, первая смерть изнутри, Азраил добр, начало погони. |
 | `08-the-boundary.md` | **Заготовка.** Граница `[_]` между мирами и Парадокс — Объект в Суперпозиции. Ещё не произошло. |
 | `99-open-questions.md` | То, что ещё не решено. Вопросы, на которые нужен ответ автора. |
 
@@ -51,4 +52,10 @@
 
 ## Порядок чтения
 
-`00-beginning.md` → `01-laws.md` → `02-trinity.md` → `03-divergence.md` → `04-meaning.md` → `05-meeting.md` → `06-beginning-and-end.md` → `07-completion.md` → `09-the-glade.md` → `10-the-first-cessation.md` → `11-the-erasure.md` → `12-in-the-void.md` → `13-fantael.md` → `14-the-world.md` → `16-the-book.md` → `17-veriil-reads.md` → `18-frictions.md` → `19-the-image.md` → `20-the-cave.md` → `21-the-imitators.md` → `22-the-stars.md`. Законы без начала не читаются, начало без законов не объясняет ничего дальше.
+**Хронология событий** (номера файлов отражают порядок записи, а не событий):
+
+`00-beginning.md` → `01-laws.md` → `02-trinity.md` → `03-divergence.md` → `04-meaning.md` → `05-meeting.md` → `06-beginning-and-end.md` → `07-completion.md` → `09-the-glade.md` → `10-the-first-cessation.md` → `11-the-erasure.md` → `12-in-the-void.md` → `13-fantael.md` → `14-the-world.md` → `15-plan-detailing.md` → `16-the-book.md` → `22-the-stars.md` → `23-the-gift-seen.md` → `19-the-image.md` → `20-the-cave.md` → `21-the-imitators.md` → `17-veriil-reads.md` → `18-frictions.md`.
+
+Законы без начала не читаются, начало без законов не объясняет ничего дальше.
+
+Сдвиги относительно нумерации: звёзды и дар увиденный (22, 23) стоят **перед** изобретением письма (19), потому что погоня за Фантаэлем начинается там. `17-veriil-reads.md` стоит после `21`, потому что страница Демиурга в Книге уже упоминает звёзды. `18-frictions.md` — свод, а не событие.
