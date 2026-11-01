@@ -38,6 +38,7 @@
 | `28-making-of-angels.md` | Сотворение ангелов: введение Вериила и Михаила. Первый вопрос и первый поклон. |
 | `29-the-cult-of-veriil.md` | **Заготовка.** Вера о Верииле: награда, прочитанная как безнаказанность, и культ Ангела Истины и Мудрости. |
 | `30-the-dagger.md` | Кинжал: Верал умирает и видит Азраила. Азраил задаёт вопрос; «пере—». |
+| `31-the-withdrawal.md` | **Заготовка.** Уход: столкновение целей Михаила, остаток от брата, и решение Небес не участвовать в жизни людей. |
 | `08-the-boundary.md` | **Заготовка.** Граница `[_]` между мирами и Парадокс — Объект в Суперпозиции. Ещё не произошло. |
 | `99-open-questions.md` | То, что ещё не решено. Вопросы, на которые нужен ответ автора. |
 
@@ -62,7 +63,7 @@
 
 **Хронология событий** (номера файлов отражают порядок записи, а не событий):
 
-`00-beginning.md` → `01-laws.md` → `02-trinity.md` → `03-divergence.md` → `28-making-of-angels.md` → `04-meaning.md` → `05-meeting.md` → `06-beginning-and-end.md` → `07-completion.md` → `09-the-glade.md` → `10-the-first-cessation.md` → `11-the-erasure.md` → `12-in-the-void.md` → `13-fantael.md` → `14-the-world.md` → `15-plan-detailing.md` → `16-the-book.md` → `22-the-stars.md` → `23-the-gift-seen.md` → `19-the-image.md` → `20-the-cave.md` → `21-the-imitators.md` → `17-veriil-reads.md` → `24-war-on-heaven.md` → `25-the-conversation.md` → `26-the-human-body.md` → `27-michael.md` → `29-the-cult-of-veriil.md` → `30-the-dagger.md` → `18-frictions.md`.
+`00-beginning.md` → `01-laws.md` → `02-trinity.md` → `03-divergence.md` → `28-making-of-angels.md` → `04-meaning.md` → `05-meeting.md` → `06-beginning-and-end.md` → `07-completion.md` → `09-the-glade.md` → `10-the-first-cessation.md` → `11-the-erasure.md` → `12-in-the-void.md` → `13-fantael.md` → `14-the-world.md` → `15-plan-detailing.md` → `16-the-book.md` → `22-the-stars.md` → `23-the-gift-seen.md` → `19-the-image.md` → `20-the-cave.md` → `21-the-imitators.md` → `17-veriil-reads.md` → `24-war-on-heaven.md` → `25-the-conversation.md` → `26-the-human-body.md` → `27-michael.md` → `29-the-cult-of-veriil.md` → `30-the-dagger.md` → `31-the-withdrawal.md` → `18-frictions.md`.
 
 Законы без начала не читаются, начало без законов не объясняет ничего дальше.
 
